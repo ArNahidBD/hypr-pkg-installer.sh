@@ -12,7 +12,7 @@ This guide shows you how to quickly clone this repository and run the installati
 
 Open your terminal and use the git clone command to download the repository:
 
-git clone https://github.com/ArNahidBD/hypr-pkg-installer.sh
+git clone https://github.com/ArNahidBD/Arch-hypr-pkg-installer.git
 
 2. Navigate to the Directory
 
